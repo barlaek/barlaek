@@ -8,3 +8,14 @@ HTML/CSS/JS
 
 ## Examples of work:
 
+### Exam Project
+
+<img src="images/2022-06-06-exam-screen.jpg" alt="screenshot of my exam project">
+
+### Cross-course project
+
+<img src="images/2022-06-06-cross-course-project-screen.jpg" alt="screenshot of cross-course project">
+
+### Semester project
+
+<img src="images/2022-06-06-semester-project-screen.jpg" alt="screenshot of semester project">
