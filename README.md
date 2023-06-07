@@ -18,11 +18,12 @@ My name is Bjørn Arne and I am a web developer. I studied at Noroff School of T
 Static website for a service company specialized in fixing professional coffee machines
 
 Built with:
+
 - Wix
 
 [Live site](https://www.rrebeltech.no/)
 
-## Examples of school porjects:
+## Examples of school projects:
 
 ### Holidaze
 
