@@ -1,39 +1,64 @@
 # Bjorn Arne Laeknes
 
-My name is Bjørn Arne and I am a first year front-end dev. student at Noroff School of Technology and Digital Media in Norway.
-I am really enjoying my journey to become a web-developer, learning to design and learning the tools to build things on my own excite me!
+My name is Bjørn Arne and I am a web developer. I studied at Noroff School of Technology and Digital Media. I love building and designing web solutions and am excited to continue my journey as a developer, working my way towards more complex designs and a fuller stack.
 
 ## Skills
-HTML/CSS/JS
 
-## Examples of work:
+- HTML
+- CSS
+- JavaScript
+- React.JS
+- Wordpress
+- Wix
 
-### Exam Project
+## Example of professional project:
 
-<img src="images/2022-06-06-exam-screen.jpg" alt="screenshot of my exam project">
+![rRebel Coffee Tech website](/images/rRebel-tech-screenshot.png)
 
-Repo:
-     https://github.com/Noroff-FEU-Assignments/project-exam-1-barlaek.git
+Static website for a service company specialized in fixing professional coffee machines
 
-Live site:
-    https://glittering-mermaid-5b4ac1.netlify.app/blogpost.html?id=144
+Built with:
+- Wix
 
-### Cross-course project
+[Live site](https://www.rrebeltech.no/)
 
-<img src="images/2022-06-06-cross-course-project-screen.jpg" alt="screenshot of cross-course project">
+## Examples of school porjects:
 
-Repo:
-    https://github.com/barlaek/cross-course-project-private.git
+### Holidaze
 
-Live site:
-    https://papaya-gingersnap-e82abf.netlify.app/
+![Holidaze booking application](/images/holidaze-screenshot.png)
 
-### Semester project
+Booking application built with:
 
-<img src="images/2022-06-06-semester-project-screen.jpg" alt="screenshot of semester project">
+- React.js
+- CSS Modules
 
-Repo:
-    https://github.com/barlaek/Semester_project_csm_site.git
+[Repository](https://github.com/barlaek/project-exam-2-holidaze)
 
-Live site:
-    https://naughty-galileo-a835fc.netlify.app/
+[Live site](https://github.com/barlaek/project-exam-2-holidaze)
+
+### The Cart & the Shop
+
+![E-commerce single page application](/images/e-commerce-screenshot.png)
+
+E-commerce single page application built with:
+
+- React.js
+- CSS Modules
+
+[Repository](https://github.com/barlaek/js-frameworks-CA)
+
+[Live site](https://gilded-treacle-5863c5.netlify.app/)
+
+### Auctioneer
+
+![Auction site](/images/auctioneer-screenshot.png)
+
+Auction site built with:
+
+- JavaScript
+- Tailwind CSS
+
+[Repository](https://github.com/barlaek/semester-project-two)
+
+[Live site](https://elegant-frangipane-898501.netlify.app/)
